@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 Pro",
+    "price": 999.0,
+    "description": "Features a titanium design, 48MP main camera, A17 Pro chip, and a 6.1-inch Super Retina XDR display.",
+    "imageUrl": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1299.0,
+    "description": "Packed with a 6.8-inch Dynamic AMOLED display, 200MP main camera, Snapdragon 8 Gen 3 processor, and a built-in S Pen.",
+    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "price": 999.0,
+    "description": "An elegant device featuring standout AI tools, a super bright 6.7-inch display, and class-leading cameras powered by Google Tensor G3.",
+    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 1799.99,
+    "description": "A flagship folding phone featuring a massive 7.6-inch inner display, powerful multitasking capabilities, and a refined hinge.",
+    "imageUrl": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Nothing Phone (2)",
+    "price": 599.0,
+    "description": "A unique smartphone featuring the Glyph Interface, Snapdragon 8+ Gen 1, and a transparent glass back design.",
+    "imageUrl": "https://images.unsplash.com/photo-1688628286950-70529d3ebc36?w=800&q=80"
+  }
+]
